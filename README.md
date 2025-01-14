@@ -1,3 +1,7 @@
+<h1>Laravel 11 + React SPA Project</h1>
+<hr>
+A simple project management application using Laravel 11 and React.
+
 <strong> FEATURE </strong >
 <hr>
 
@@ -10,7 +14,7 @@
 7. View Tasks assigned to me
 8. Show dashboard with overview information
 
-
+<hr>
 <strong> Installation </strong >
 1. Clone the project
 2. Navigate to the project's root directory using terminal
